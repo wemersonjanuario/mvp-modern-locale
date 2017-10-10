@@ -1,7 +1,4 @@
 /**
- * Created by Wemerson Januario <wemerson.januario@gmail.com> on 10/10/2017.
- */
-/**
  * Portuguese/Brazil Translation by Wemerson Januario <wemerson.januario@gmail.com>
  * 10 October 2017
  */

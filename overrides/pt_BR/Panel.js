@@ -4,6 +4,7 @@
  */
 Ext.define('Ext.locale.pt_BR.Panel', {
     override: 'Ext.Panel',
+
     config: {
         standardButtons: {
             ok: {
