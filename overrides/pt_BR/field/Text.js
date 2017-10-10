@@ -1,8 +1,8 @@
 /**
- * Created by Wemerson Januario <wemerson.januariogmail.com> on 10/10/2017.
+ * Created by Wemerson Januario <wemerson.januario@gmail.com> on 10/10/2017.
  */
 /**
- * Portuguese/Brazil Translation by Wemerson Januario <wemerson.januariogmail.com>
+ * Portuguese/Brazil Translation by Wemerson Januario <wemerson.januario@gmail.com>
  * 10 October 2017
  */
 Ext.define('Ext.locale.pt_BR.field.Text', {
