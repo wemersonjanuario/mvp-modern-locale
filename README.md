@@ -21,6 +21,7 @@ The missing locale package for Ext JS modern toolkit
 ### Authors and contributors
 
 * Wemerson Januario (wemerson.januario@gmail.com) (pt_BR)
+* Zoltan Lippai (zoli@lippai.net) (hu_HU)
 
 
 ### Contribute
