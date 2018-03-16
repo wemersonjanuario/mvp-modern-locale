@@ -8,7 +8,7 @@ Ext.define('Ext.locale.zh_CN.panel.Date', {
     config: {
         nextText: '下个月 (Ctrl + ->)',
         prevText: '上个月 (Ctrl + <-)',
-        
+
         headerFormat: {
             $value: 'Y-m-d l',
             cached: true

@@ -6,8 +6,8 @@ Ext.define('Ext.locale.zh_CN.field.Text', {
     override: 'Ext.field.Text',
 
     config: {
-        badFormatMessage: '值与所需的格式不符',
         requiredMessage: '必填项',
         validationMessage: '格式错误'
-    }
+    },
+    badFormatMessage: '值与所需的格式不符'
 });
