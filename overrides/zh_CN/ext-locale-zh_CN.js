@@ -23,5 +23,10 @@ Ext.onReady(function() {
             defaultDateFormat: 'Y-m-d'
         });
     }
+    if (Ext.Date) {
+        Ext.apply(Ext.Date, {
+            defaultFormat: 'Y-m-d'
+        });
+    }
 });
 
