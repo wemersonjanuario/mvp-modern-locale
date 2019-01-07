@@ -9,6 +9,7 @@ Ext.define('Ext.locale.zh_CN.picker.Date', {
         doneButton: '完成',
         monthText: '月',
         dayText: '日',
-        yearText: '年'
+        yearText: '年',
+        slotOrder: ['year', 'month', 'day']
     }
 });
