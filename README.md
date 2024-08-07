@@ -10,13 +10,13 @@ The missing locale package for Ext JS modern toolkit
 
         "requires": [
             "font-awesome",
-            "modern-locale"
+            "mvp-modern-locale"
           ],
-        "locale": "pt_BR",
+        "locale": "tr",
 
 - Refresh your app running this command
 
-        sencha app refresh
+        sencha app watch
 
 ### Authors and contributors
 
@@ -25,6 +25,7 @@ The missing locale package for Ext JS modern toolkit
 * Martín Panizzo (martin17@gmail.com) (es_AR)
 * lovelyelfpop (479858761@qq.com) (zh_CN)
 * Jens Pliester (de_DE)
+* Sercan Arğa(tr) turkish
 
 
 ### Contribute
