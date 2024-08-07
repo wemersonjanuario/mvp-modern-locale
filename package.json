@@ -6,7 +6,7 @@
         "namespace": "Ext",
         "type": "code",
         "alternateName": [
-            "ext-locale"
+            "mvp-ext-locale"
         ],        
         "framework": "ext",
         "toolkit": "modern",
